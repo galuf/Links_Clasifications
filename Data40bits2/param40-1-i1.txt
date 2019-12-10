@@ -1,0 +1,535 @@
+create_organism	37
+threshold_activation	60
+threshold_inhibition	70
+mutation_rate_mol_cell	2
+mutation_rate_atom_mol	20
+molecular_shape_size	14
+
+create_cell	1	20	rect	5	4	input	0
+n_receptors_cell	1	4
+n_effectors_cell	1	4
+n_internal_cell	1	12
+p_inhibitors_cell	1	20
+
+create_cell	2	20	rect	5	4	input	0
+n_receptors_cell	2	4
+n_effectors_cell	2	4
+n_internal_cell	2	12
+p_inhibitors_cell	2	20
+
+create_cell	3	20	rect	5	4	input	0
+n_receptors_cell	3	4
+n_effectors_cell	3	4
+n_internal_cell	3	12
+p_inhibitors_cell	3	20
+
+create_cell	4	20	rect	5	4	input	0
+n_receptors_cell	4	4
+n_effectors_cell	4	4
+n_internal_cell	4	12
+p_inhibitors_cell	4	20
+
+create_cell	5	20	rect	5	4	input	0
+n_receptors_cell	5	4
+n_effectors_cell	5	4
+n_internal_cell	5	12
+p_inhibitors_cell	5	20
+
+create_cell	6	20	rect	5	4	input	0
+n_receptors_cell	6	4
+n_effectors_cell	6	4
+n_internal_cell	6	12
+p_inhibitors_cell	6	20
+
+create_cell	7	20	rect	5	4	input	0
+n_receptors_cell	7	4
+n_effectors_cell	7	4
+n_internal_cell	7	12
+p_inhibitors_cell	7	20
+
+create_cell	8	20	rect	5	4	input	0
+n_receptors_cell	8	4
+n_effectors_cell	8	4
+n_internal_cell	8	12
+p_inhibitors_cell	8	20
+
+create_cell	9	20	rect	5	4	input	0
+n_receptors_cell	9	4
+n_effectors_cell	9	4
+n_internal_cell	9	12
+p_inhibitors_cell	9	20
+
+create_cell	10	20	rect	5	4	input	0
+n_receptors_cell	10	4
+n_effectors_cell	10	4
+n_internal_cell	10	12
+p_inhibitors_cell	10	20
+
+create_cell	11	20	rect	5	4	input	0
+n_receptors_cell	11	4
+n_effectors_cell	11	4
+n_internal_cell	11	12
+p_inhibitors_cell	11	20
+
+create_cell	12	20	rect	5	4	input	0
+n_receptors_cell	12	4
+n_effectors_cell	12	4
+n_internal_cell	12	12
+p_inhibitors_cell	12	20
+
+create_cell	13	20	rect	5	4	input	0
+n_receptors_cell	13	4
+n_effectors_cell	13	4
+n_internal_cell	13	12
+p_inhibitors_cell	13	20
+
+create_cell	14	20	rect	5	4	input	0
+n_receptors_cell	14	4
+n_effectors_cell	14	4
+n_internal_cell	14	12
+p_inhibitors_cell	14	20
+
+create_cell	15	20	rect	5	4	input	0
+n_receptors_cell	15	4
+n_effectors_cell	15	4
+n_internal_cell	15	12
+p_inhibitors_cell	15	20
+
+create_cell	16	20	rect	5	4	input	0
+n_receptors_cell	16	4
+n_effectors_cell	16	4
+n_internal_cell	16	12
+p_inhibitors_cell	16	20
+
+create_cell	17	20	rect	5	4	input	0
+n_receptors_cell	17	4
+n_effectors_cell	17	4
+n_internal_cell	17	12
+p_inhibitors_cell	17	20
+
+create_cell	18	20	rect	5	4	input	0
+n_receptors_cell	18	4
+n_effectors_cell	18	4
+n_internal_cell	18	12
+p_inhibitors_cell	18	20
+
+create_cell	19	20	rect	5	4	input	0
+n_receptors_cell	19	4
+n_effectors_cell	19	4
+n_internal_cell	19	12
+p_inhibitors_cell	19	20
+
+create_cell	20	20	rect	5	4	input	0
+n_receptors_cell	20	4
+n_effectors_cell	20	4
+n_internal_cell	20	12
+p_inhibitors_cell	20	20
+
+create_cell	21	20	rect	5	4	internal1	0
+n_receptors_cell	21	4
+n_effectors_cell	21	4
+n_internal_cell	21	12
+p_inhibitors_cell	21	20
+
+create_cell	22	20	rect	5	4	internal1	0
+n_receptors_cell	22	4
+n_effectors_cell	22	4
+n_internal_cell	22	12
+p_inhibitors_cell	22	20
+
+create_cell	23	20	rect	5	4	internal1	0
+n_receptors_cell	23	4
+n_effectors_cell	23	4
+n_internal_cell	23	12
+p_inhibitors_cell	23	20
+
+create_cell	24	20	rect	5	4	internal1	0
+n_receptors_cell	24	4
+n_effectors_cell	24	4
+n_internal_cell	24	12
+p_inhibitors_cell	24	20
+
+create_cell	25	20	rect	5	4	internal1	0
+n_receptors_cell	25	4
+n_effectors_cell	25	4
+n_internal_cell	25	12
+p_inhibitors_cell	25	20
+
+create_cell	26	20	rect	5	4	internal1	0
+n_receptors_cell	26	4
+n_effectors_cell	26	4
+n_internal_cell	26	12
+p_inhibitors_cell	26	20
+
+create_cell	27	20	rect	5	4	internal1	0
+n_receptors_cell	27	4
+n_effectors_cell	27	4
+n_internal_cell	27	12
+p_inhibitors_cell	27	20
+
+create_cell	28	20	rect	5	4	internal1	0
+n_receptors_cell	28	4
+n_effectors_cell	28	4
+n_internal_cell	28	12
+p_inhibitors_cell	28	20
+
+create_cell	29	20	rect	5	4	internal1	0
+n_receptors_cell	29	4
+n_effectors_cell	29	4
+n_internal_cell	29	12
+p_inhibitors_cell	29	20
+
+create_cell	30	20	rect	5	4	internal1	0
+n_receptors_cell	30	4
+n_effectors_cell	30	4
+n_internal_cell	30	12
+p_inhibitors_cell	30	20
+
+create_cell	31	20	rect	5	4	internal2	0
+n_receptors_cell	31	4
+n_effectors_cell	31	4
+n_internal_cell	31	12
+p_inhibitors_cell	31	20
+
+create_cell	32	20	rect	5	4	internal2	0
+n_receptors_cell	32	4
+n_effectors_cell	32	4
+n_internal_cell	32	12
+p_inhibitors_cell	32	20
+
+create_cell	33	20	rect	5	4	internal2	0
+n_receptors_cell	33	4
+n_effectors_cell	33	4
+n_internal_cell	33	12
+p_inhibitors_cell	33	20
+
+create_cell	34	20	rect	5	4	internal2	0
+n_receptors_cell	34	4
+n_effectors_cell	34	4
+n_internal_cell	34	12
+p_inhibitors_cell	34	20
+
+create_cell	35	20	rect	5	4	internal2	0
+n_receptors_cell	35	4
+n_effectors_cell	35	4
+n_internal_cell	35	12
+p_inhibitors_cell	35	20
+
+create_cell	36	20	rect	5	4	internal2	0
+n_receptors_cell	36	4
+n_effectors_cell	36	4
+n_internal_cell	36	12
+p_inhibitors_cell	36	20
+
+create_cell	37	25	rect	5	5	output	5
+n_receptors_cell	37	4
+n_effectors_cell	37	4
+n_internal_cell	37	17
+p_inhibitors_cell	37	30
+
+cell_cell	1	21
+cell_cell	1	22
+cell_cell	1	23
+cell_cell	1	24
+cell_cell	1	25
+cell_cell	1	26
+cell_cell	1	27
+cell_cell	1	28
+cell_cell	1	29
+cell_cell	1	30
+
+cell_cell	2	21
+cell_cell	2	22
+cell_cell	2	23
+cell_cell	2	24
+cell_cell	2	25
+cell_cell	2	26
+cell_cell	2	27
+cell_cell	2	28
+cell_cell	2	29
+cell_cell	2	30
+
+cell_cell	3	21
+cell_cell	3	22
+cell_cell	3	23
+cell_cell	3	24
+cell_cell	3	25
+cell_cell	3	26
+cell_cell	3	27
+cell_cell	3	28
+cell_cell	3	29
+cell_cell	3	30
+
+cell_cell	4	21
+cell_cell	4	22
+cell_cell	4	23
+cell_cell	4	24
+cell_cell	4	25
+cell_cell	4	26
+cell_cell	4	27
+cell_cell	4	28
+cell_cell	4	29
+cell_cell	4	30
+
+cell_cell	5	21
+cell_cell	5	22
+cell_cell	5	23
+cell_cell	5	24
+cell_cell	5	25
+cell_cell	5	26
+cell_cell	5	27
+cell_cell	5	28
+cell_cell	5	29
+cell_cell	5	30
+
+cell_cell	6	21
+cell_cell	6	22
+cell_cell	6	23
+cell_cell	6	24
+cell_cell	6	25
+cell_cell	6	26
+cell_cell	6	27
+cell_cell	6	28
+cell_cell	6	29
+cell_cell	6	30
+
+cell_cell	7	21
+cell_cell	7	22
+cell_cell	7	23
+cell_cell	7	24
+cell_cell	7	25
+cell_cell	7	26
+cell_cell	7	27
+cell_cell	7	28
+cell_cell	7	29
+cell_cell	7	30
+
+cell_cell	8	21
+cell_cell	8	22
+cell_cell	8	23
+cell_cell	8	24
+cell_cell	8	25
+cell_cell	8	26
+cell_cell	8	27
+cell_cell	8	28
+cell_cell	8	29
+cell_cell	8	30
+
+cell_cell	9	21
+cell_cell	9	22
+cell_cell	9	23
+cell_cell	9	24
+cell_cell	9	25
+cell_cell	9	26
+cell_cell	9	27
+cell_cell	9	28
+cell_cell	9	29
+cell_cell	9	30
+
+cell_cell	10	21
+cell_cell	10	22
+cell_cell	10	23
+cell_cell	10	24
+cell_cell	10	25
+cell_cell	10	26
+cell_cell	10	27
+cell_cell	10	28
+cell_cell	10	29
+cell_cell	10	30
+
+cell_cell	11	21
+cell_cell	11	22
+cell_cell	11	23
+cell_cell	11	24
+cell_cell	11	25
+cell_cell	11	26
+cell_cell	11	27
+cell_cell	11	28
+cell_cell	11	29
+cell_cell	11	30
+
+cell_cell	12	21
+cell_cell	12	22
+cell_cell	12	23
+cell_cell	12	24
+cell_cell	12	25
+cell_cell	12	26
+cell_cell	12	27
+cell_cell	12	28
+cell_cell	12	29
+cell_cell	12	30
+
+cell_cell	13	21
+cell_cell	13	22
+cell_cell	13	23
+cell_cell	13	24
+cell_cell	13	25
+cell_cell	13	26
+cell_cell	13	27
+cell_cell	13	28
+cell_cell	13	29
+cell_cell	13	30
+
+cell_cell	14	21
+cell_cell	14	22
+cell_cell	14	23
+cell_cell	14	24
+cell_cell	14	25
+cell_cell	14	26
+cell_cell	14	27
+cell_cell	14	28
+cell_cell	14	29
+cell_cell	14	30
+
+cell_cell	15	21
+cell_cell	15	22
+cell_cell	15	23
+cell_cell	15	24
+cell_cell	15	25
+cell_cell	15	26
+cell_cell	15	27
+cell_cell	15	28
+cell_cell	15	29
+cell_cell	15	30
+
+cell_cell	16	21
+cell_cell	16	22
+cell_cell	16	23
+cell_cell	16	24
+cell_cell	16	25
+cell_cell	16	26
+cell_cell	16	27
+cell_cell	16	28
+cell_cell	16	29
+cell_cell	16	30
+
+cell_cell	17	21
+cell_cell	17	22
+cell_cell	17	23
+cell_cell	17	24
+cell_cell	17	25
+cell_cell	17	26
+cell_cell	17	27
+cell_cell	17	28
+cell_cell	17	29
+cell_cell	17	30
+
+cell_cell	18	21
+cell_cell	18	22
+cell_cell	18	23
+cell_cell	18	24
+cell_cell	18	25
+cell_cell	18	26
+cell_cell	18	27
+cell_cell	18	28
+cell_cell	18	29
+cell_cell	18	30
+
+cell_cell	19	21
+cell_cell	19	22
+cell_cell	19	23
+cell_cell	19	24
+cell_cell	19	25
+cell_cell	19	26
+cell_cell	19	27
+cell_cell	19	28
+cell_cell	19	29
+cell_cell	19	30
+
+cell_cell	20	21
+cell_cell	20	22
+cell_cell	20	23
+cell_cell	20	24
+cell_cell	20	25
+cell_cell	20	26
+cell_cell	20	27
+cell_cell	20	28
+cell_cell	20	29
+cell_cell	20	30
+
+cell_cell	21	31
+cell_cell	21	32
+cell_cell	21	33
+cell_cell	21	34
+cell_cell	21	35
+cell_cell	21	36
+
+cell_cell	22	31
+cell_cell	22	32
+cell_cell	22	33
+cell_cell	22	34
+cell_cell	22	35
+cell_cell	22	36
+
+cell_cell	23	31
+cell_cell	23	32
+cell_cell	23	33
+cell_cell	23	34
+cell_cell	23	35
+cell_cell	23	36
+
+cell_cell	24	31
+cell_cell	24	32
+cell_cell	24	33
+cell_cell	24	34
+cell_cell	24	35
+cell_cell	24	36
+
+cell_cell	25	31
+cell_cell	25	32
+cell_cell	25	33
+cell_cell	25	34
+cell_cell	25	35
+cell_cell	25	36
+
+cell_cell	26	31
+cell_cell	26	32
+cell_cell	26	33
+cell_cell	26	34
+cell_cell	26	35
+cell_cell	26	36
+
+cell_cell	27	31
+cell_cell	27	32
+cell_cell	27	33
+cell_cell	27	34
+cell_cell	27	35
+cell_cell	27	36
+
+cell_cell	28	31
+cell_cell	28	32
+cell_cell	28	33
+cell_cell	28	34
+cell_cell	28	35
+cell_cell	28	36
+
+cell_cell	29	31
+cell_cell	29	32
+cell_cell	29	33
+cell_cell	29	34
+cell_cell	29	35
+cell_cell	29	36
+
+cell_cell	30	31
+cell_cell	30	32
+cell_cell	30	33
+cell_cell	30	34
+cell_cell	30	35
+cell_cell	30	36
+
+cell_cell	31	37
+
+cell_cell	32	37
+
+cell_cell	33	37
+
+cell_cell	34	37
+
+cell_cell	35	37
+
+cell_cell	36	37
+
+fraction_input_vector	2
+minimal_global_error	0.001
+seeds clock clock
+end.
